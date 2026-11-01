@@ -1,14 +1,18 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "+vfSEZyvnPU=",
   "success": true,
   "projectFilePath": "C:\\Users\\brayn\\Desktop\\CLASES_FUNDAMENTOS\\01-HolaMundo\\01-HolaMundo.csproj",
-=======
-  "dgSpecHash": "U4qQakpsTIk=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\brayn\\Documents\\codigos\\01-HolaMundo\\01-HolaMundo.csproj",
->>>>>>> 7c3802d5a2409c0e3642300493453ef738b8a030
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Problem reading the cache file C:\\Users\\brayn\\Desktop\\CLASES_FUNDAMENTOS\\01-HolaMundo\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "C:\\Users\\brayn\\Desktop\\CLASES_FUNDAMENTOS\\01-HolaMundo\\01-HolaMundo.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\brayn\\Desktop\\CLASES_FUNDAMENTOS\\01-HolaMundo\\01-HolaMundo.csproj",
+      "targetGraphs": []
+    }
+  ]
 }

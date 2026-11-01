@@ -1,0 +1,15 @@
+C:\Users\brayn\Desktop\CLASES_FUNDAMENTOS\Evaluacion02\Casting\bin\Debug\net10.0\Casting.exe
+C:\Users\brayn\Desktop\CLASES_FUNDAMENTOS\Evaluacion02\Casting\bin\Debug\net10.0\Casting.deps.json
+C:\Users\brayn\Desktop\CLASES_FUNDAMENTOS\Evaluacion02\Casting\bin\Debug\net10.0\Casting.runtimeconfig.json
+C:\Users\brayn\Desktop\CLASES_FUNDAMENTOS\Evaluacion02\Casting\bin\Debug\net10.0\Casting.dll
+C:\Users\brayn\Desktop\CLASES_FUNDAMENTOS\Evaluacion02\Casting\bin\Debug\net10.0\Casting.pdb
+C:\Users\brayn\Desktop\CLASES_FUNDAMENTOS\Evaluacion02\Casting\obj\Debug\net10.0\Casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brayn\Desktop\CLASES_FUNDAMENTOS\Evaluacion02\Casting\obj\Debug\net10.0\Casting.AssemblyInfoInputs.cache
+C:\Users\brayn\Desktop\CLASES_FUNDAMENTOS\Evaluacion02\Casting\obj\Debug\net10.0\Casting.AssemblyInfo.cs
+C:\Users\brayn\Desktop\CLASES_FUNDAMENTOS\Evaluacion02\Casting\obj\Debug\net10.0\Casting.csproj.CoreCompileInputs.cache
+C:\Users\brayn\Desktop\CLASES_FUNDAMENTOS\Evaluacion02\Casting\obj\Debug\net10.0\Casting.sourcelink.json
+C:\Users\brayn\Desktop\CLASES_FUNDAMENTOS\Evaluacion02\Casting\obj\Debug\net10.0\Casting.dll
+C:\Users\brayn\Desktop\CLASES_FUNDAMENTOS\Evaluacion02\Casting\obj\Debug\net10.0\refint\Casting.dll
+C:\Users\brayn\Desktop\CLASES_FUNDAMENTOS\Evaluacion02\Casting\obj\Debug\net10.0\Casting.pdb
+C:\Users\brayn\Desktop\CLASES_FUNDAMENTOS\Evaluacion02\Casting\obj\Debug\net10.0\Casting.genruntimeconfig.cache
+C:\Users\brayn\Desktop\CLASES_FUNDAMENTOS\Evaluacion02\Casting\obj\Debug\net10.0\ref\Casting.dll

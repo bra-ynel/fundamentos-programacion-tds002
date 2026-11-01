@@ -1,7 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
     "C:\\Users\\brayn\\Desktop\\CLASES_FUNDAMENTOS\\01-HolaMundo\\01-HolaMundo.csproj": {}
   },
   "projects": {
@@ -13,19 +12,6 @@
         "projectPath": "C:\\Users\\brayn\\Desktop\\CLASES_FUNDAMENTOS\\01-HolaMundo\\01-HolaMundo.csproj",
         "packagesPath": "C:\\Users\\brayn\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\brayn\\Desktop\\CLASES_FUNDAMENTOS\\01-HolaMundo\\obj\\",
-=======
-    "C:\\Users\\brayn\\Documents\\codigos\\01-HolaMundo\\01-HolaMundo.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\brayn\\Documents\\codigos\\01-HolaMundo\\01-HolaMundo.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\brayn\\Documents\\codigos\\01-HolaMundo\\01-HolaMundo.csproj",
-        "projectName": "01-HolaMundo",
-        "projectPath": "C:\\Users\\brayn\\Documents\\codigos\\01-HolaMundo\\01-HolaMundo.csproj",
-        "packagesPath": "C:\\Users\\brayn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\brayn\\Documents\\codigos\\01-HolaMundo\\obj\\",
->>>>>>> 7c3802d5a2409c0e3642300493453ef738b8a030
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\brayn\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -75,11 +61,7 @@
               "privateAssets": "all"
             }
           },
-<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.402/PortableRuntimeIdentifierGraph.json",
-=======
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
->>>>>>> 7c3802d5a2409c0e3642300493453ef738b8a030
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
