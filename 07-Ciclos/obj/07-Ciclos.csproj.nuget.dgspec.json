@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\brayn\\Desktop\\CLASES_FUNDAMENTOS\\07-Ciclos\\07-Ciclos.csproj": {}
+    "c:\\Users\\brayn\\Desktop\\CLASES_FUNDAMENTOS\\07-Ciclos\\07-Ciclos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\brayn\\Desktop\\CLASES_FUNDAMENTOS\\07-Ciclos\\07-Ciclos.csproj": {
+    "c:\\Users\\brayn\\Desktop\\CLASES_FUNDAMENTOS\\07-Ciclos\\07-Ciclos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\brayn\\Desktop\\CLASES_FUNDAMENTOS\\07-Ciclos\\07-Ciclos.csproj",
+        "projectUniqueName": "c:\\Users\\brayn\\Desktop\\CLASES_FUNDAMENTOS\\07-Ciclos\\07-Ciclos.csproj",
         "projectName": "07-Ciclos",
-        "projectPath": "C:\\Users\\brayn\\Desktop\\CLASES_FUNDAMENTOS\\07-Ciclos\\07-Ciclos.csproj",
+        "projectPath": "c:\\Users\\brayn\\Desktop\\CLASES_FUNDAMENTOS\\07-Ciclos\\07-Ciclos.csproj",
         "packagesPath": "C:\\Users\\brayn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\brayn\\Desktop\\CLASES_FUNDAMENTOS\\07-Ciclos\\obj\\",
+        "outputPath": "c:\\Users\\brayn\\Desktop\\CLASES_FUNDAMENTOS\\07-Ciclos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\brayn\\AppData\\Roaming\\NuGet\\NuGet.Config"

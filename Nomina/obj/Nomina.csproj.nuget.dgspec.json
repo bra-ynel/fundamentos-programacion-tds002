@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\brayn\\Desktop\\CLASES_FUNDAMENTOS\\Nomina\\Nomina.csproj": {}
+    "c:\\Users\\brayn\\Desktop\\CLASES_FUNDAMENTOS\\Nomina\\Nomina.csproj": {}
   },
   "projects": {
-    "C:\\Users\\brayn\\Desktop\\CLASES_FUNDAMENTOS\\Nomina\\Nomina.csproj": {
+    "c:\\Users\\brayn\\Desktop\\CLASES_FUNDAMENTOS\\Nomina\\Nomina.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\brayn\\Desktop\\CLASES_FUNDAMENTOS\\Nomina\\Nomina.csproj",
+        "projectUniqueName": "c:\\Users\\brayn\\Desktop\\CLASES_FUNDAMENTOS\\Nomina\\Nomina.csproj",
         "projectName": "Nomina",
-        "projectPath": "C:\\Users\\brayn\\Desktop\\CLASES_FUNDAMENTOS\\Nomina\\Nomina.csproj",
+        "projectPath": "c:\\Users\\brayn\\Desktop\\CLASES_FUNDAMENTOS\\Nomina\\Nomina.csproj",
         "packagesPath": "C:\\Users\\brayn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\brayn\\Desktop\\CLASES_FUNDAMENTOS\\Nomina\\obj\\",
+        "outputPath": "c:\\Users\\brayn\\Desktop\\CLASES_FUNDAMENTOS\\Nomina\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\brayn\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,15 @@
+C:\Users\brayn\Desktop\CLASES_FUNDAMENTOS\Evaluacion05\01-CajaRegistradora\bin\Debug\net10.0\01-CajaRegistradora.exe
+C:\Users\brayn\Desktop\CLASES_FUNDAMENTOS\Evaluacion05\01-CajaRegistradora\bin\Debug\net10.0\01-CajaRegistradora.deps.json
+C:\Users\brayn\Desktop\CLASES_FUNDAMENTOS\Evaluacion05\01-CajaRegistradora\bin\Debug\net10.0\01-CajaRegistradora.runtimeconfig.json
+C:\Users\brayn\Desktop\CLASES_FUNDAMENTOS\Evaluacion05\01-CajaRegistradora\bin\Debug\net10.0\01-CajaRegistradora.dll
+C:\Users\brayn\Desktop\CLASES_FUNDAMENTOS\Evaluacion05\01-CajaRegistradora\bin\Debug\net10.0\01-CajaRegistradora.pdb
+C:\Users\brayn\Desktop\CLASES_FUNDAMENTOS\Evaluacion05\01-CajaRegistradora\obj\Debug\net10.0\01-CajaRegistradora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brayn\Desktop\CLASES_FUNDAMENTOS\Evaluacion05\01-CajaRegistradora\obj\Debug\net10.0\01-CajaRegistradora.AssemblyInfoInputs.cache
+C:\Users\brayn\Desktop\CLASES_FUNDAMENTOS\Evaluacion05\01-CajaRegistradora\obj\Debug\net10.0\01-CajaRegistradora.AssemblyInfo.cs
+C:\Users\brayn\Desktop\CLASES_FUNDAMENTOS\Evaluacion05\01-CajaRegistradora\obj\Debug\net10.0\01-CajaRegistradora.csproj.CoreCompileInputs.cache
+C:\Users\brayn\Desktop\CLASES_FUNDAMENTOS\Evaluacion05\01-CajaRegistradora\obj\Debug\net10.0\01-CajaRegistradora.sourcelink.json
+C:\Users\brayn\Desktop\CLASES_FUNDAMENTOS\Evaluacion05\01-CajaRegistradora\obj\Debug\net10.0\01-CajaRegistradora.dll
+C:\Users\brayn\Desktop\CLASES_FUNDAMENTOS\Evaluacion05\01-CajaRegistradora\obj\Debug\net10.0\refint\01-CajaRegistradora.dll
+C:\Users\brayn\Desktop\CLASES_FUNDAMENTOS\Evaluacion05\01-CajaRegistradora\obj\Debug\net10.0\01-CajaRegistradora.pdb
+C:\Users\brayn\Desktop\CLASES_FUNDAMENTOS\Evaluacion05\01-CajaRegistradora\obj\Debug\net10.0\01-CajaRegistradora.genruntimeconfig.cache
+C:\Users\brayn\Desktop\CLASES_FUNDAMENTOS\Evaluacion05\01-CajaRegistradora\obj\Debug\net10.0\ref\01-CajaRegistradora.dll
