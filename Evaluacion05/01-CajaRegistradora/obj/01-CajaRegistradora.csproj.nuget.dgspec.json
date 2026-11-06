@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\brayn\\Desktop\\CLASES_FUNDAMENTOS\\Evaluacion05\\01-CajaRegistradora\\01-CajaRegistradora.csproj": {}
+    "c:\\Users\\brayn\\Desktop\\CLASES_FUNDAMENTOS\\Evaluacion05\\01-CajaRegistradora\\01-CajaRegistradora.csproj": {}
   },
   "projects": {
-    "C:\\Users\\brayn\\Desktop\\CLASES_FUNDAMENTOS\\Evaluacion05\\01-CajaRegistradora\\01-CajaRegistradora.csproj": {
+    "c:\\Users\\brayn\\Desktop\\CLASES_FUNDAMENTOS\\Evaluacion05\\01-CajaRegistradora\\01-CajaRegistradora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\brayn\\Desktop\\CLASES_FUNDAMENTOS\\Evaluacion05\\01-CajaRegistradora\\01-CajaRegistradora.csproj",
+        "projectUniqueName": "c:\\Users\\brayn\\Desktop\\CLASES_FUNDAMENTOS\\Evaluacion05\\01-CajaRegistradora\\01-CajaRegistradora.csproj",
         "projectName": "01-CajaRegistradora",
-        "projectPath": "C:\\Users\\brayn\\Desktop\\CLASES_FUNDAMENTOS\\Evaluacion05\\01-CajaRegistradora\\01-CajaRegistradora.csproj",
+        "projectPath": "c:\\Users\\brayn\\Desktop\\CLASES_FUNDAMENTOS\\Evaluacion05\\01-CajaRegistradora\\01-CajaRegistradora.csproj",
         "packagesPath": "C:\\Users\\brayn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\brayn\\Desktop\\CLASES_FUNDAMENTOS\\Evaluacion05\\01-CajaRegistradora\\obj\\",
+        "outputPath": "c:\\Users\\brayn\\Desktop\\CLASES_FUNDAMENTOS\\Evaluacion05\\01-CajaRegistradora\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\brayn\\AppData\\Roaming\\NuGet\\NuGet.Config"
