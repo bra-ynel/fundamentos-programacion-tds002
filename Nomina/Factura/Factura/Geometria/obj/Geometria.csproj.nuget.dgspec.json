@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\brayn\\Desktop\\CLASES_FUNDAMENTOS\\Nomina\\Factura\\Factura\\Geometria\\Geometria.csproj": {}
+    "C:\\Users\\brayn\\Desktop\\CLASES_FUNDAMENTOS\\Nomina\\Factura\\Factura\\Geometria\\Geometria.csproj": {}
   },
   "projects": {
-    "c:\\Users\\brayn\\Desktop\\CLASES_FUNDAMENTOS\\Nomina\\Factura\\Factura\\Geometria\\Geometria.csproj": {
+    "C:\\Users\\brayn\\Desktop\\CLASES_FUNDAMENTOS\\Nomina\\Factura\\Factura\\Geometria\\Geometria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\brayn\\Desktop\\CLASES_FUNDAMENTOS\\Nomina\\Factura\\Factura\\Geometria\\Geometria.csproj",
+        "projectUniqueName": "C:\\Users\\brayn\\Desktop\\CLASES_FUNDAMENTOS\\Nomina\\Factura\\Factura\\Geometria\\Geometria.csproj",
         "projectName": "Geometria",
-        "projectPath": "c:\\Users\\brayn\\Desktop\\CLASES_FUNDAMENTOS\\Nomina\\Factura\\Factura\\Geometria\\Geometria.csproj",
+        "projectPath": "C:\\Users\\brayn\\Desktop\\CLASES_FUNDAMENTOS\\Nomina\\Factura\\Factura\\Geometria\\Geometria.csproj",
         "packagesPath": "C:\\Users\\brayn\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\brayn\\Desktop\\CLASES_FUNDAMENTOS\\Nomina\\Factura\\Factura\\Geometria\\obj\\",
+        "outputPath": "C:\\Users\\brayn\\Desktop\\CLASES_FUNDAMENTOS\\Nomina\\Factura\\Factura\\Geometria\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\brayn\\AppData\\Roaming\\NuGet\\NuGet.Config"
