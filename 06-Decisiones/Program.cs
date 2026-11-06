@@ -11,8 +11,8 @@ class Program
             Console.WriteLine("=========================================");
             Console.WriteLine("   ACTIVIDAD EN CLASE - SEMANA 6 (ITLA)");
             Console.WriteLine("=========================================");
-            Console.WriteLine("1. Parte 1: Calificación con Letras");
-            Console.WriteLine("2. Parte 2: Calculadora Básica");
+            Console.WriteLine("1. Parte 1: Calificación (0-100 a Letra)");
+            Console.WriteLine("2. Parte 2: Calculadora Básica (+, -, *, /)");
             Console.WriteLine("3. Salir");
             Console.Write("Seleccione una opción (1-3): ");
 
@@ -30,15 +30,13 @@ class Program
                         Console.WriteLine("\n¡Saliendo del programa. ¡Éxito con tu entrega!");
                         break;
                     default:
-                        Console.WriteLine("\nOpción no válida. Presione una tecla para continuar.");
-                        Console.ReadKey();
+                        Console.WriteLine("\nOpción no válida.");
                         break;
                 }
             }
             else
             {
-                Console.WriteLine("\nEntrada inválida. Presione una tecla para continuar.");
-                Console.ReadKey();
+                Console.WriteLine("\nEntrada inválida.");
             }
 
             if (opcion != 3)
@@ -50,13 +48,14 @@ class Program
         } while (opcion != 3);
     }
 
-    // PARTE 1: Calificación
+    // PARTE 1: Calificación con if-else if-else e int.TryParse
     static void EjecutarCalificacion()
     {
         Console.Clear();
         Console.WriteLine("--- PARTE 1: CALIFICACIÓN ---");
         Console.Write("Ingrese una nota (0-100): ");
 
+        // Validación con int.TryParse como pide la consigna
         if (int.TryParse(Console.ReadLine(), out int nota))
         {
             if (nota >= 0 && nota <= 100)
@@ -80,16 +79,16 @@ class Program
             }
             else
             {
-                Console.WriteLine("Error: La nota debe estar en el rango de 0 a 100.");
+                Console.WriteLine("Error: La nota debe estar en el rango de 0 a 100[cite: 2].");
             }
         }
         else
         {
-            Console.WriteLine("Error: Debe ingresar un número entero válido usando int.TryParse.");
+            Console.WriteLine("Error: Debe ingresar un número entero válido.");
         }
     }
 
-    // PARTE 2: Calculadora
+    // PARTE 2: Calculadora con switch y control de división entre 0
     static void EjecutarCalculadora()
     {
         Console.Clear();
@@ -109,11 +108,11 @@ class Program
             return;
         }
 
-        Console.WriteLine("\nSeleccione la operación:");
-        Console.WriteLine("1. Sumar (+)");
-        Console.WriteLine("2. Restar (-)");
-        Console.WriteLine("3. Multiplicar (*)");
-        Console.WriteLine("4. Dividir (/)");
+        Console.WriteLine("\nSeleccione la opción:");
+        Console.WriteLine("1. Sumar");
+        Console.WriteLine("2. Restar");
+        Console.WriteLine("3. Multiplicar");
+        Console.WriteLine("4. Dividir");
         Console.Write("Opción (1-4): ");
 
         if (int.TryParse(Console.ReadLine(), out int operacion))
@@ -132,7 +131,7 @@ class Program
                 case 4:
                     if (num2 == 0)
                     {
-                        Console.WriteLine("Error: No se puede dividir entre 0.");
+                        Console.WriteLine("Error: No se puede dividir entre 0[cite: 2].");
                     }
                     else
                     {
@@ -140,7 +139,7 @@ class Program
                     }
                     break;
                 default:
-                    Console.WriteLine("Opción de operación no válida.");
+                    Console.WriteLine("Opción de operación no válida[cite: 2].");
                     break;
             }
         }
